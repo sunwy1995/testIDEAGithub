@@ -6,5 +6,6 @@ public class HelloGit {
         System.out.println("current branch is hot_fix");
         System.out.println("current branch is hot_fix 2");
         System.out.println("current branch is master");
+        System.out.println("line 9 edit by master");
     }
 }
