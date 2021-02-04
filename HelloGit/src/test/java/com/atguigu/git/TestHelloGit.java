@@ -11,5 +11,6 @@ public class TestHelloGit {
     @Test
     public void testHelloGit(){
         System.out.println("test hello git by master");
+        System.out.println("test edit by hot fix");
     }
 }
